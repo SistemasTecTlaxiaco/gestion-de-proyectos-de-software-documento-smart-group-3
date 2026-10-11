@@ -14,8 +14,6 @@
 
 **Equipo de desarrollo:** Maritza Sanchez Garcia, Paola Rosario Ayala, Ariadna Belen Bernabe Juarez, Mayra Gonzalez Lita
 
-**Fecha de elaboración:** 11 de octubre de 2026
-
 ## 1. Formulación del objetivo SMART
 
 ### Objetivo del proyecto
